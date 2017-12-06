@@ -5,7 +5,7 @@
 :set ruler
 :set hlsearch
 :set showmatch
-:set tags+=tags,../tags,../../tags,/Users/joao/Documents/repos/ramcloud/src/tags,/Users/joao/Documents/repos/libvma/src/tags
+:set tags+=tags,../tags,../../tags
 :set backspace=indent,eol,start
 :set et
 :set backup
