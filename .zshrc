@@ -15,17 +15,17 @@ compinit
 # Exports #
 ###########
 export MPI_HOME=/opt/openmpi-1.8.2
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/openmpi/lib                                                           export SVN_EDITOR=vim
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/openmpi/lib
+export SVN_EDITOR=vim
 #export PROMPT='%d> '
 #source ~/zshrc.sh
 #PROMPT='%B%m%~%b$(git_super_status) %# '
-export PATH=$PATH:/home/jc1/Desktop/tese/llvm-gcc-4.2-2.7.source/install/bin:/home/jc1/Klee/llvm-gcc4.2-2.9-x86_64-linux/bin:/opt/openmpi-1.8.3/bin/:/usr/local/spark/bin/pyspark
+export PATH=$PATH:/opt/openmpi-1.8.3/bin/
 export GIT_EDITOR=vi
 
 ###########
 # Aliases #
 ###########
-alias sshvader1='ssh -C -X menezes@dslabpc47.epfl.ch'
 alias ll='ls -l'
 alias sl='ls'
 alias ls='ls --color'
