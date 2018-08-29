@@ -1,7 +1,7 @@
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
-HISTSIZE=2000000
-SAVEHIST=2000000
+HISTSIZE=1000000
+SAVEHIST=1000000
 bindkey -e
 # End of lines configured by zsh-newuser-install
 # The following lines were added by compinstall
@@ -66,4 +66,3 @@ ulimit -c unlimited
 # PS1="%n@%m:%/ \$vcs_info_msg_0_"
 
 PROMPT='[%n@%m:%/]%# '
-
