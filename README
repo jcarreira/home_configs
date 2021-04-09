@@ -1,0 +1,5 @@
+Install lsd: https://github.com/Peltoche/lsd/
+Install g++ make cmake autotools valgrind gdb emacs exuberant-ctags htop iotop locate kdiff3 git
+
+git config --global user.email "joao@berkeley.edu"
+git config --global user.name "Joao Carreira"
