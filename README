@@ -1,4 +1,7 @@
 Install lsd: https://github.com/Peltoche/lsd/
+[joao@joao-ThinkPad-E14-Gen-2:/home/joao/Documents/repos/nerd-fonts]%
+
+
 Install g++ make cmake autotools valgrind gdb emacs exuberant-ctags htop iotop locate kdiff3 git
 
 git config --global user.email "joao@berkeley.edu"
