@@ -9,6 +9,8 @@ Python/data science:
 scikit-learn
 pandas
 numpy
+xgboost
+matplotlib
 
 
 
