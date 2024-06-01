@@ -1,6 +1,9 @@
-Install lsd: https://github.com/Peltoche/lsd/
+
 [joao@joao-ThinkPad-E14-Gen-2:/home/joao/Documents/repos/nerd-fonts]% ./install.sh Hack
 
+Ls software:
+Install lsd: https://github.com/Peltoche/lsd/
+exa
 
 
 Install g++ make cmake autotools valgrind gdb emacs exuberant-ctags htop iotop locate kdiff3 git mtr pydf dstat bmon ncdu gtags neofetch
