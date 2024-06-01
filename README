@@ -5,6 +5,7 @@ Ls software:
 Install lsd: https://github.com/Peltoche/lsd/
 exa
 
+neovim
 
 Install g++ make cmake autotools valgrind gdb emacs exuberant-ctags htop iotop locate kdiff3 git mtr pydf dstat bmon ncdu gtags neofetch
 
