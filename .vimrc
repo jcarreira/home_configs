@@ -17,3 +17,4 @@
 filetype plugin indent on
 syntax on
 autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
+nnoremap <F5> :let _s=@/<Bar>:%s/\s\+$//e<Bar>:let @/=_s<Bar><CR>
