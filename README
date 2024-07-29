@@ -25,10 +25,11 @@ git config --global user.name "Joao Carreira"
 security:
 run lynis
 enable tpm in bios
+grub password
 check security settings in ubuntu
 ufw and iptables
-
 ubuntu security pro
 opensnitch
 usbguard
 libpam-tmpdir
+sudo lynis audit system --verbose --debug
