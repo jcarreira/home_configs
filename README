@@ -21,3 +21,12 @@ Install g++ make cmake autotools valgrind gdb emacs exuberant-ctags htop iotop l
 
 git config --global user.email "joao@berkeley.edu"
 git config --global user.name "Joao Carreira"
+
+security:
+run lynis
+enable tpm in bios
+check security settings in ubuntu
+ufw and iptables
+
+ubuntu security pro
+opensnitch
