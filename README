@@ -34,3 +34,5 @@ opensnitch
 usbguard
 libpam-tmpdir
 sudo lynis audit system --verbose --debug
+chkrootkit
+rkhunter
