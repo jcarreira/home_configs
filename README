@@ -37,6 +37,7 @@ sudo lynis audit system --verbose --debug
 chkrootkit
 rkhunter
 aide
-meld (useful)
+meld (differences between directoris)
+rmlint (remove duplicate files)
 
 check ubuntu settings->security
